@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "5Q/+AN0uJcd80dtAM9ZWZR1j9AA=",
+			"path": "github.com/jlaffaye/ftp",
+			"revision": "7cd8b0bcf3fc55445321d7e95372fc0de38b2d02",
+			"revisionTime": "2019-07-21T19:44:32Z"
+		}
+	],
+	"rootPath": "github.com/michael1589/recordbeat"
+}

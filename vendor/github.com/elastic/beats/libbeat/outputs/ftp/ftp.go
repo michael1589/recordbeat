@@ -54,6 +54,7 @@ func init() {
 }
 
 func makeFtp(
+    _ outputs.IndexManager,
 	beat beat.Info,
 	observer outputs.Observer,
 	cfg *common.Config,

@@ -64,6 +64,7 @@ func init() {
 }
 
 func makeMix(
+	_ outputs.IndexManager,
 	beat beat.Info,
 	observer outputs.Observer,
 	cfg *common.Config,
